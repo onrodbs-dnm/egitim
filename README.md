@@ -1,1 +1,2 @@
 # egitim
+Dijital Pazarlama Eğitimi
